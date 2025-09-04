@@ -2,6 +2,10 @@
 
 ---
 
+Welcome to the **Adidas Interactive Sales Dashboard using Excel** repository! 🚀  
+This **Excel dashboard** provides a powerful and **interactive sales analysis** for Adidas data, allowing users to explore insights with **dynamic filtering, KPIs, and visualizations**.  
+
+
 ## **📖 Project Overview**  
 
 This project presents an **Interactive Sales Dashboard** built in **Excel**, showcasing Adidas sales performance across multiple regions.  
