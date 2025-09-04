@@ -1,44 +1,53 @@
-📊 Adidas Interactive Sales Dashboard using Excel
+# **📊 Adidas Interactive Sales Dashboard using Excel**
 
-Welcome to the Adidas Sales Dashboard repository! 🚀
-This Excel dashboard delivers a comprehensive and interactive sales analysis for Adidas data, empowering users to explore performance with dynamic slicers, KPIs, and visualizations.
+## **📌 Overview**
+This project presents an **Interactive Sales Dashboard** built in **Excel**, showcasing Adidas sales performance across multiple regions.  
+The dashboard provides **real-time insights** into sales, profit, quantity sold, and top-performing products, enabling better business decisions through data visualization.
 
-📖 Project Overview
+---
 
-This project provides a consolidated view of Adidas sales performance using Excel dashboards, offering:
+## **📊 Dashboard Visualizations**
+The dashboard highlights the following key metrics:
+- **Total Sales, Profit, and Quantity Sold**
+- **Sales by Region (Interactive Map & Charts)**
+- **Top 5 Products by Sales**
+- **Sales Trends Over Time**
+- **Category-wise & State-wise Performance**
 
-✅ Interactive Slicers – Filter data by Year, Quarter, Sales Method, Region, Product, and Retailer.
-✅ KPI Metrics – At-a-glance insights into Customers, Total Sales, and Total Profit.
-✅ Dynamic Visualizations – Interactive charts update instantly based on slicer selections.
+---
 
-📊 Visualizations & Insights
+## **⚡ How to Use**
+1. **Download the Excel file** from this repository.  
+2. Open it in **Microsoft Excel (2016 or later recommended)**.  
+3. Use the **interactive slicers and filters** to explore data dynamically.  
+4. Analyze **KPIs, trends, and product insights** across regions.  
 
-🔹 Line Chart – Sales Trend by Quarter.
-🔹 Bar Charts –
+---
 
-Sales by Retailer
+## **🖼 Preview of the Dashboard**
+Here’s a snapshot of the Excel dashboard:  
 
-Top Selling Products
+![Adidas Sales Dashboard](Final%20Dashboard-%20Image.jpg)
 
-Top 5 States by Sales
-🔹 Pie Chart – Operating Margin by Sales Method.
-🔹 Clustered Bar Chart – Sales by Retailer and Sales Method.
+---
 
-🚀 These insights help track regional performance, identify profitable channels, and highlight top-performing products & states.
+## **🛠 Tools & Skills Used**
+- **Excel PivotTables & PivotCharts**  
+- **Excel Slicers for Interactivity**  
+- **Data Cleaning & Preparation**  
+- **KPI Design & Visualization**  
+- **Business Insights from Sales Data**  
 
-📌 How to Use the Dashboard?
+---
 
-1️⃣ Use Slicers – Adjust the dashboard by selecting Year, Quarter, Region, Sales Method, Product, or Retailer.
-2️⃣ View KPIs – Instantly see Customer Count, Total Sales, and Profit.
-3️⃣ Analyze Visuals – Interact with charts to uncover sales patterns and performance drivers.
-4️⃣ Compare Segments – Explore results across retailers, states, and product categories.
+## **🔗 Connect with Me**  
 
-📸 Dashboard Preview
+Hi! I'm **Shivam Singh**, a **Data Analyst** passionate about transforming raw data into **actionable insights**.  
+Follow me for more data-related content!  
 
-🛠️ Tools & Technologies Used
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithShivam-04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-linkdin/)
+[![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shivam.singh4467/vizzes) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Singh-04)  
 
-Microsoft Excel – Dashboard creation (PivotTables, PivotCharts, Slicers).
-
-Adidas Sales Dataset – Data source for visualization.
-
-🔗 Connect with Me
+🚀 **Stay tuned for more data-driven projects!**  
