@@ -14,13 +14,13 @@ The dashboard provides **real-time insights** into sales, profit, quantity sold,
 
 ## **📊 Visualizations & Insights**  
 
-- **KPI Cards** – Customers, Total Sales, and Total Profit  
-- **Sales by Quarter** – Line chart showing quarterly sales trend  
-- **Sales by Retailer** – Bar chart comparing total sales across major retailers  
-- **Operating Margin by Sales Method** – Pie chart breakdown by In-store, Online, and Outlet  
-- **Sales by Retailer and Sales Method** – Stacked bar chart comparing retailer performance across channels  
-- **Top Selling Products** – Bar chart highlighting best-performing product categories  
-- **Top 5 States by Sales** – Horizontal bar chart showing leading states by total sales
+🔹 **KPI Cards** – Customers, Total Sales, and Total Profit  
+🔹 **Sales by Quarter** – Line chart showing quarterly sales trend  
+🔹 **Sales by Retailer** – Bar chart comparing total sales across major retailers  
+🔹 **Operating Margin by Sales Method** – Pie chart breakdown by In-store, Online, and Outlet  
+🔹 **Sales by Retailer and Sales Method** – Stacked bar chart comparing retailer performance across channels  
+🔹 **Top Selling Products** – Bar chart highlighting best-performing product categories  
+🔹 **Top 5 States by Sales** – Horizontal bar chart showing leading states by total sales
 
 🚀 These visualizations help **uncover trends**, **identify top-performing segments**, and **drive strategic decisions**.  
 
@@ -28,10 +28,10 @@ The dashboard provides **real-time insights** into sales, profit, quantity sold,
 
 ## **📌 How to Use the Dashboard?**  
 
-1. **Download the Excel file** from this repository.  
-2. Open it in **Microsoft Excel (2016 or later recommended)**.  
-3. Use the **interactive slicers and filters** to explore data dynamically.  
-4. Analyze **KPIs, trends, and product insights** across regions.  
+1️⃣ **Download the Excel file** from this repository.  
+2️⃣ Open it in **Microsoft Excel (2016 or later recommended)**.  
+3️⃣ Use the **interactive slicers and filters** to explore data dynamically.  
+4️⃣ Analyze **KPIs, trends, and product insights** across regions.  
 
 ---
 
@@ -41,7 +41,8 @@ The dashboard provides **real-time insights** into sales, profit, quantity sold,
 
 ---
 
-## **🛠 Tools & Skills Used**
+## **🛠️ Tools & Technologies Used** 
+
 - **Excel PivotTables & PivotCharts**  
 - **Excel Slicers for Interactivity**  
 - **Data Cleaning & Preparation**  
