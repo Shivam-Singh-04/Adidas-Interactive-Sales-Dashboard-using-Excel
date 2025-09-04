@@ -1,22 +1,30 @@
 # **📊 Adidas Interactive Sales Dashboard using Excel**
 
-## **📌 Overview**
+---
+
+## **📖 Project Overview**  
+
 This project presents an **Interactive Sales Dashboard** built in **Excel**, showcasing Adidas sales performance across multiple regions.  
 The dashboard provides **real-time insights** into sales, profit, quantity sold, and top-performing products, enabling better business decisions through data visualization.
 
 ---
 
-## **📊 Dashboard Visualizations**
-The dashboard highlights the following key metrics:
-- **Total Sales, Profit, and Quantity Sold**
-- **Sales by Region (Interactive Map & Charts)**
-- **Top 5 Products by Sales**
-- **Sales Trends Over Time**
-- **Category-wise & State-wise Performance**
+## **📊 Visualizations & Insights**  
+
+- **KPI Cards** – Customers, Total Sales, and Total Profit  
+- **Sales by Quarter** – Line chart showing quarterly sales trend  
+- **Sales by Retailer** – Bar chart comparing total sales across major retailers  
+- **Operating Margin by Sales Method** – Pie chart breakdown by In-store, Online, and Outlet  
+- **Sales by Retailer and Sales Method** – Stacked bar chart comparing retailer performance across channels  
+- **Top Selling Products** – Bar chart highlighting best-performing product categories  
+- **Top 5 States by Sales** – Horizontal bar chart showing leading states by total sales
+
+🚀 These visualizations help **uncover trends**, **identify top-performing segments**, and **drive strategic decisions**.  
 
 ---
 
-## **⚡ How to Use**
+## **📌 How to Use the Dashboard?**  
+
 1. **Download the Excel file** from this repository.  
 2. Open it in **Microsoft Excel (2016 or later recommended)**.  
 3. Use the **interactive slicers and filters** to explore data dynamically.  
@@ -24,8 +32,7 @@ The dashboard highlights the following key metrics:
 
 ---
 
-## **🖼 Preview of the Dashboard**
-Here’s a snapshot of the Excel dashboard:  
+## **📸 Dashboard Preview**  
 
 ![Adidas Sales Dashboard](Final%20Dashboard-%20Image.jpg)
 
